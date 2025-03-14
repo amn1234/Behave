@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","289","Test the Login API","","Thu Mar 13 21:19:13 CDT 2025","passed","Thu Mar 13 21:19:13 CDT 2025","","","",""
+"","181","Test GET request","","Thu Mar 13 21:19:13 CDT 2025","passed","Thu Mar 13 21:19:13 CDT 2025","","","",""
